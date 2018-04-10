@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Bahasa Inggris</string>
+    <string name="action_settings">Settings</string>
+    <string name="backdrop_title">Bahasa Inggris</string>
+    <string name="backdrop_subtitle">Aplikasi Belajar Bahasa Inggris</string>
+    <string name="simple_past">Simple Past Tense</string>
+    <string name="simple_present_tense">Simple Present Tense</string>
+    <string name="simple_future_tense">Simple Future Tense</string>
+    <string name="punctuations">Punctuations</string>
+    <string name="pronouns">Pronouns</string>
+    <string name="present_perfect_continuous_tense">Present Perfect Continuous Tense</string>
+    <string name="present_perfect_tense">Present Perfect Tense</string>
+    <string name="present_continuous_tense">Present Continuous Tense</string>
+    <string name="prepositions">Prepositions</string>
+    <string name="past_perfect_continuous_tense">Past Perfect Continuous Tense</string>
+    <string name="past_perfect_tense">Past Perfect Tense</string>
+    <string name="past_continuous_tense">Past Continuous Tense</string>
+    <string name="nouns">Nouns</string>
+    <string name="future_perfect_continuous_tense">Future Perfect Continuous Tense</string>
+    <string name="future_perfect_tense">Future Perfect Tense</string>
+    <string name="future_continuous_tense">Future Continuous Tense</string>
+    <string name="conjuctions">Conjuctions</string>
+    <string name="adverbs">Adverbs</string>
+    <string name="adjectives">Adjectives</string>
+    <string name="check">Check</string>
+    <string name="test">Test</string>
+    <string name="exercises">Latihan :</string>
+    <string name="hint">Ketik jawaban disini … \t </string>
+
+    <!-- Simple Past Tense, Explain 1 -->
+
+    <string name="simple_past_explain">Simple Past Tense digunakan untuk menyatakan kejadian yang sudah selesai dan tidak ada hubungan sama sekali dengan saat ini (sekarang), biasanya hanya untuk menceritakan kejadian yang lalu saja. Simple Past Tense juga biasa digunakan untuk menyatakan sesuatu yang sudah terjadi dalam cerita.</string>
+    <string name="example">Contoh :</string>
+    <string name="first_bullet">■ My Parent lived in Germany in 2002.\n \t\t(Kedua orangtua saya pernah tinggal\n \t\t di Jerman pada tahun 2002)</string>
+    <string name="second_bullet">■ I bought a new smartphone last week.\n \t\t(Saya sudah membeli smartphone\n \t\t baru minggu lalu)</string>
+    <string name="third_bullet">■ Pinocchio’s nose grew longer every time\n \t\t he told a lie.\n \t\t(Hidung Pinocchio bertambah panjang\n \t\t setiap dia mengatakan kebohongan)</string>
+
+    <!-- Simple Past Tense, Test 1 -->
+
+    <string name="exercise_simple_past_test1">1. I … Nasi goreng yesterday</string>
+    <string name="first_exercise_meaning_test1">\t Saya makan Nasi goreng kemarin.</string>
+    <string name="exercise_simple_past_test2">2. My Sister … Dieng Central Java last year.</string>
+    <string name="first_exercise_meaning_test2">\t Saudara perempuan saya mengunjungi Dieng\n \t Jawa Tengah tahun lalu.</string>
+    <string name="exercise_simple_past_test3">3. Cinderella … with her stepmother and her\n \t\t two stepsisters, Anastasia and Drizella.</string>
+    <string name="first_exercise_meaning_test3">\t Cinderella tinggal bersama Ibu tiri dan\n \t kedua Saudara perempuan tirinya.</string>
+
+    <!-- Simple Past Tense, Explain 2 -->
+
+    <string name="pola_kalimat_simple_past">Pola kalimat Simple Past</string>
+    <string name="bentuk_kalimat_verbal_simple_past">■ Bentuk kalimat verbal</string>
+    <string name="bentuk_kalimat_nominal_simple_past">■ Bentuk kalimat nominal</string>
+    <string name="bentuk_kalimat_verbal_positif_simple_past">\t\t(+) Positif : Subject + V2 (Verb 2) + Object. \n\t\t Contoh : Lubna played Puzzle last night. \n\t\t (Lubna bermain Puzzle semalam)</string>
+    <string name="bentuk_kalimat_verbal_negatif_simple_past">\t\t(-) Negatif : Subject + did + not + V1 (Verb 1) + \n\t\t Object. \n\t\t Contoh : Lubna did not play Puzzle last night. \n\t\t (Lubna tidak bermain Puzzle semalam)</string>
+    <string name="bentuk_kalimat_verbal_question_simple_past">\t\t(?) Question : Did + Subject + V1 (Verb 1) + Object? \n\t\t Contoh : Did Lubna play Puzzle last night? \n\t\t (Apakah Lubna bermain Puzzle semalam?)</string>
+    <string name="bentuk_kalimat_nominal_positif_simple_past">\t\t(+) Positif : Subject + (was/were) + 3 Complement. \n\t\t Contoh : I was happy on my Birthday party\n\t\t last week. \n\t\t (Saya senang pada acara Ulang tahun saya\n\t\t minggu lalu)</string>
+    <string name="bentuk_kalimat_nominal_negatif_simple_past">\t\t(-) Negatif : Subject + (was/were) + not +\n\t\t 3 Complement. \n\t\t Contoh : I was not happy on my Birthday party\n\t\t last week.\n\t\t (Saya tidak senang pada acara Ulang tahun\n\t\t saya minggu lalu)</string>
+    <string name="bentuk_kalimat_nominal_question_simple_past">\t\t(?) Question : (was/were) + Subject +\n\t\t 3 Complement? \n\t\t Contoh : Was she sick yesterday?\n\t\t (Apakah dia (perempuan) sakit kemarin?</string>
+    <string name="dan_lainnya">-</string>
+    <string name="contoh_keterangan_waktu_time_signal">Contoh keterangan waktu (Time signal)</string>
+    <string name="last_time">Last + Time</string>
+    <string name="cardinal_time_ago">Cardinal + Time + Ago</string>
+    <string name="specific_time_in_the_past">Specific time in the past</string>
+    <string name="last_sunday">Last Sunday</string>
+    <string name="one_day_ago">One day ago</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="last_day">Last day</string>
+    <string name="two_days_ago">Two days ago</string>
+    <string name="the_day_before_yesterday">The day before yesterday</string>
+    <string name="last_night">Last night</string>
+    <string name="three_weeks_ago">Three weeks ago</string>
+    <string name="two_days_before_yesterday">Two days before yesterday</string>
+    <string name="last_morning">Last morning</string>
+    <string name="four_years_ago">Four years ago</string>
+    <string name="one_week_before">One week before</string>
+    <string name="last_week">Last week</string>
+    <string name="in_1990">In 1990</string>
+    <string name="last_month">Last month</string>
+    <string name="last_year">Last year</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
