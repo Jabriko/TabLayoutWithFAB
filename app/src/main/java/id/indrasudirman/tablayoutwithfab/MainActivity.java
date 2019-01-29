@@ -40,7 +40,9 @@ public class MainActivity extends AppCompatActivity {
     };
 
     int[] colorIntArray = {R.color.red,R.color.blue,R.color.green};
+    //Set color for Floating Action Button
     int[] iconIntArray = {R.drawable.ic_tab_favourite, R.drawable.ic_tab_call, R.drawable.ic_tab_contacts};
+    //Set icon for Floating Action Button
 
 
 
